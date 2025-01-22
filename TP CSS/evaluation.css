@@ -1,0 +1,17 @@
+body{
+    background-color:aqua;
+}
+.highlight{
+    color: blue;
+    font-weight: bold;
+}
+li{
+    color:brown;
+}
+.special{
+    border: 2px solid black;
+    background-color: gray;
+}
+#unique{
+    background-color: yellow;
+}
